@@ -27,4 +27,4 @@ Ujjwal Garg
 
 ## Deployment URL
 
-[Link to deployed site](https://ujjwalgarg100204.github.io/worldline-level-1-webfundamentals-daily-task-2/)
+[Link to deployed site](https://gargujjwal.github.io/worldline-level-1-webfundamentals-daily-task-2/)
